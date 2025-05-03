@@ -1,0 +1,13 @@
+/* Using the set class names: */
+.container > .text {
+	color: #ff0000;
+	text-align: center;
+	background-color: #ffff00;
+}
+
+/* Using the element tags: */
+/* div > p {
+	color: #ff0000;
+	text-align: center;
+	background-color: #ffff00;
+} */
